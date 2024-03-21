@@ -1,6 +1,9 @@
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
+import leetcode from "./leetcode.png";
+import linkedin from "./linkedin.png";
+import mygithub from "./mygithub.png";
 
 import css from "./tech/css.png";
 import figma from "./tech/figma.png";
@@ -28,6 +31,9 @@ import teachbook from "./teachbook.png";
 
 export {
   github,
+  leetcode,
+  mygithub,
+  linkedin,
   menu,
   close,
   mysql,
