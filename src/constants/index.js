@@ -6,11 +6,11 @@ import {
     tailwind,
     nodejs,
     mongodb,
-    git,
-    figma,
+    //git,
+    //figma,
     expressjs,
     mysql,
-    c,
+    //c,
     cPlus,
     python,
     bootstrap,
@@ -90,7 +90,7 @@ import {
       name: "Bootstrap 5",
       icon: bootstrap,
     },
-    {
+    /*{
       name: "git",
       icon: git,
     },
@@ -101,7 +101,7 @@ import {
     {
       name: "C",
       icon: c,
-    },
+    },*/
     {
       name: "C++",
       icon: cPlus,
@@ -180,6 +180,7 @@ import {
       ],
       image: blank,
       source_code_link: "https://github.com/SUPARNA150/Final-Year-Project",
+      video_play_link: "https://drive.google.com/file/d/1CCQtpIUcOCmgPaQuedgCALy_6QE2jZ9l/view?usp=sharing",
     },
     {
       name: "TeachBook",
@@ -221,6 +222,7 @@ import {
       ],
       image: teachbook,
       source_code_link: "https://github.com/SUPARNA150/TEACHBOOK",
+      video_play_link: "https://drive.google.com/file/d/1RHsvg8rXI2p2jRO9cegmdmoVywtAnfYw/view?usp=sharing",
     },
     {
       name: "Fitney",
@@ -254,6 +256,7 @@ import {
       ],
       image: fitney,
       source_code_link: "https://github.com/SUPARNA150/gymwebSite_Fitney",
+      video_play_link: "https://drive.google.com/drive/folders/1u3PT0Zcqyr_XR0owQ0RswHCwurkttzxk?usp=sharing",
     },
   ];
   

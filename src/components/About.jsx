@@ -34,7 +34,7 @@ const About = () => {
       </button> 
       <button
       onClick={() => {
-        window.open("https://drive.google.com/file/d/1WRfEYC3-7JE_5k_29ppnSiGTPbu9PgUx/view?usp=sharing", "_blank");
+        window.open("https://drive.google.com/file/d/1zdiXEZZSGh8cBZqnFa_QyTm2Lso0oVx4/view?usp=sharing", "_blank");
       }}  
       className=" text-sm bg-[#1d1836] py-4 px-8 rounded-xl outline-none w-fit text-white font-bold shadow-md shadow-primary min-[280px]:max-[440px]:px-5 min-[280px]:max-[440px]:py-2">
         Download CV

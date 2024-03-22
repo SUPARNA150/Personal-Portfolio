@@ -4,6 +4,7 @@ import close from "./close.svg";
 import leetcode from "./leetcode.png";
 import linkedin from "./linkedin.png";
 import mygithub from "./mygithub.png";
+import play_button from "./play_button.png";
 
 import css from "./tech/css.png";
 import figma from "./tech/figma.png";
@@ -32,6 +33,7 @@ import teachbook from "./teachbook.png";
 export {
   github,
   leetcode,
+  play_button,
   mygithub,
   linkedin,
   menu,
